@@ -1,0 +1,3 @@
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\PositiveNegative\obj\Debug\netcoreapp3.1\PositiveNegative.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\PositiveNegative\obj\Debug\netcoreapp3.1\PositiveNegative.AssemblyInfo.cs
+C:\Users\opilane\source\repos\titpe21\Week5-Code-Review-Task\PositiveNegative\obj\Debug\netcoreapp3.1\PositiveNegative.csproj.CoreCompileInputs.cache
